@@ -35,7 +35,7 @@ bool Person::is_18() {
 
 void Person::showInfoPerson() {
     cout << "Imie: " << name << " nazwisko: " << surname <<
-         "wiek: " << age << endl;
+         " wiek: " << age << endl;
 }
 
 void Person::init(string name1, string surname1, int age1) {

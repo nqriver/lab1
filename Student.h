@@ -21,6 +21,8 @@ public:
     void getStudentInfo();
 
     Student(const string &name1, const string &surname1, int age1, const string &index);
+
+    Student();
 };
 
 
